@@ -5,6 +5,5 @@
 
 *Multi-scale X-Ray Imaging Group, Mechanical Engineering, University College London*
 
-
-!!! Under Construction
-    BRIDGE is still under active development and will be available shortly
+> [!NOTE]
+> BRIDGE is still under active development and will be available shortly
