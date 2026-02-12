@@ -6,4 +6,5 @@
 *Multi-scale X-Ray Imaging Group, Mechanical Engineering, University College London*
 
 > [!NOTE]
-> BRIDGE is still under active development and will be available shortly
+> BRIDGE and it's documentation will be available shortly.
+> In the meantime, contact andrew.keenlyside.23@ucl.ac.uk
